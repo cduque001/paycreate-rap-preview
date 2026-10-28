@@ -1,0 +1,14 @@
+[
+  {
+    "saved_path": "iced-coffee.png",
+    "mode": "built-in image_gen",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Create one premium photoreal 3D product cutout for a PayCreate green-and-white coffee-shop music video. A clear cylindrical takeaway cup filled with rich iced coffee: amber espresso blending naturally into milk, realistic ice cubes and subtle condensation. Clear flat lid, deep forest green straight straw, a completely blank cream paper sleeve around its middle. Three-quarter front view, very slightly from above. Entire object visible with generous transparent margins, tall object centered, a tiny soft contact shadow only. Beautiful soft studio lighting, realistic materials, sharp details, sophisticated commercial product photography. Colors harmonize with deep green #0b6036, lively green #0f8a4d and warm white. No words, labels, logos, badges, hands, background, furniture, frame, collage or additional products. Transparent background. Object oriented upright, suitable to animate independently."
+  },
+  {
+    "saved_path": "coffee-bag.png",
+    "mode": "built-in image_gen",
+    "transparent_background": true,
+    "prompt": "Use case: product-mockup. Create one premium photoreal 3D product cutout for a green-and-white coffee-shop music video: a standing sealed 250g-style coffee bean pouch, deep forest green matte packaging with lifelike paper folds and a folded top. A completely blank warm cream rectangular label centered on its front. Tiny realistic one-way valve above the label. Three-quarter front view, very slightly from above. Entire single bag visible centered with generous transparent margins, upright, a tiny soft contact shadow only. Sophisticated commercial studio photography, fine textured material, elegant green #0b6036 with warm white and soft highlights. No words, lettering, symbols, logo, brand, prices, hands, loose beans or additional objects. Transparent background, no setting, no collage. It must pair with an existing deep green takeaway coffee cup with blank cream sleeve."
+  }
+]
