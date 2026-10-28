@@ -1,0 +1,18 @@
+{
+  "mode": "generate",
+  "transparent_background": true,
+  "requests": [
+    {
+      "name": "brew-station",
+      "prompt": "Use case: premium product photography cutout for a green-and-white coffee shop music video. Create a single detailed, physically coherent commercial single-group espresso machine with brushed stainless steel casing and deep forest-green enamel side panels (#0b6036). Three-quarter front view from slightly above, front dominant and clearly visible. One attached portafilter group and its downward double spout above a slatted stainless drip tray, supported housing with real seams and fasteners, a small pressure dial without readable numerals, one attached steam wand on the right, small practical switches. A single matching forest-green PAPER takeaway cup with blank cream sleeve and NO lid is placed directly below the coffee spouts on the drip tray, leaving a visible 5cm-ish air gap. Show the open top of the cup with dark coffee inside. Important: machine, cup and tray are one coherent scene, the spout is visibly positioned directly over the open cup. Do not show coffee pouring yet, no steam baked into the image: these will animate separately. No brand, logo, readable text, hands, people, counter, background or other products. The entire machine, all feet, wand and cup are visible with generous transparent margins. Soft commercial studio light from upper left, sharp material texture, warm-white highlights, believable contact shadows. Transparent background, one isolated asset. Landscape/square composition, not a collage or diagram."
+    },
+    {
+      "name": "payment-terminal",
+      "prompt": "Use case: premium product cutout for a green-and-white fintech music video. One realistic generic countertop contactless payment terminal, entire device isolated on transparent background with generous margins. Elegant deep forest-green (#0b6036) and satin black housing on a sturdy angled base, realistic layered construction, neat seams, bezel, contactless area at the top, a glass rectangular screen angled upward toward the viewer, compact physical keypad below. Camera three-quarter frontal, only a little from the left, looking down enough to see screen, front dominant. Screen is completely blank white with subtle realistic reflections, no icons or text. Keypad keys blank, no numbers or logos. No payment card, hand, cable, currency, merchant brand, manufacturer logo or writing. Soft premium commercial product lighting from upper left, believable detailed materials and gentle contact shadow. Must harmonize with a green matte takeaway coffee cup and white paper stage. Not a toy, no clip art, no floor or scenery."
+    },
+    {
+      "name": "carry-bag",
+      "prompt": "Use case: premium commercial product cutout for a green-and-white coffee shop music video. One standing open takeaway shopping paper bag, thick warm cream paper with a deep forest-green (#0b6036) blank rectangular panel on the front and two elegant dark-green twisted-paper handles. Three-quarter front view from slightly above so the OPEN empty top and interior are clearly visible. The front panel faces mostly forward, the opening is generous enough for a small coffee-bean pouch. Realistic paper grain, folded side gussets, carefully formed base, structural creases and layered handles, beautiful studio softbox lighting from upper left. Entire single bag visible centered with transparent margins and a very small soft contact shadow. No text, logos, letters, symbols, products inside, hands, scenery, table, background or extra objects. Transparent background. Rich photographic detail, not a flat illustration, diagram or collage."
+    }
+  ]
+}
