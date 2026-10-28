@@ -1,0 +1,436 @@
+[
+  {
+    "text": "Make it.",
+    "startMs": 80,
+    "endMs": 1240,
+    "timestampMs": 80,
+    "confidence": null
+  },
+  {
+    "text": "Sell it.",
+    "startMs": 1300,
+    "endMs": 2300,
+    "timestampMs": 1300,
+    "confidence": null
+  },
+  {
+    "text": "PayCreate.",
+    "startMs": 2520,
+    "endMs": 3060,
+    "timestampMs": 2520,
+    "confidence": null
+  },
+  {
+    "text": "Your name on the door,",
+    "startMs": 3060,
+    "endMs": 4900,
+    "timestampMs": 3060,
+    "confidence": null
+  },
+  {
+    "text": "Your thing, your way.",
+    "startMs": 5020,
+    "endMs": 6000,
+    "timestampMs": 5020,
+    "confidence": null
+  },
+  {
+    "text": "From the shop",
+    "startMs": 6000,
+    "endMs": 7440,
+    "timestampMs": 6000,
+    "confidence": null
+  },
+  {
+    "text": "on the block",
+    "startMs": 7440,
+    "endMs": 8300,
+    "timestampMs": 7440,
+    "confidence": null
+  },
+  {
+    "text": "to your checkout page.",
+    "startMs": 8300,
+    "endMs": 9660,
+    "timestampMs": 8300,
+    "confidence": null
+  },
+  {
+    "text": "Make it.",
+    "startMs": 10560,
+    "endMs": 11400,
+    "timestampMs": 10560,
+    "confidence": null
+  },
+  {
+    "text": "Sell it.",
+    "startMs": 11720,
+    "endMs": 12280,
+    "timestampMs": 11720,
+    "confidence": null
+  },
+  {
+    "text": "PayCreate.",
+    "startMs": 12540,
+    "endMs": 13240,
+    "timestampMs": 12540,
+    "confidence": null
+  },
+  {
+    "text": "Yeah, yeah, yeah.",
+    "startMs": 13240,
+    "endMs": 14460,
+    "timestampMs": 13240,
+    "confidence": null
+  },
+  {
+    "text": "Key in the lock,",
+    "startMs": 14500,
+    "endMs": 15260,
+    "timestampMs": 14500,
+    "confidence": null
+  },
+  {
+    "text": "let the daylight in.",
+    "startMs": 15320,
+    "endMs": 16160,
+    "timestampMs": 15320,
+    "confidence": null
+  },
+  {
+    "text": "Fresh pot brewing,",
+    "startMs": 16160,
+    "endMs": 16860,
+    "timestampMs": 16160,
+    "confidence": null
+  },
+  {
+    "text": "let the day begin.",
+    "startMs": 16920,
+    "endMs": 17760,
+    "timestampMs": 16920,
+    "confidence": null
+  },
+  {
+    "text": "You know the regulars,",
+    "startMs": 17760,
+    "endMs": 18540,
+    "timestampMs": 17760,
+    "confidence": null
+  },
+  {
+    "text": "know what they like.",
+    "startMs": 18540,
+    "endMs": 19520,
+    "timestampMs": 18540,
+    "confidence": null
+  },
+  {
+    "text": "One wants it strong,",
+    "startMs": 19520,
+    "endMs": 20200,
+    "timestampMs": 19520,
+    "confidence": null
+  },
+  {
+    "text": "one's got extra ice.",
+    "startMs": 20200,
+    "endMs": 21200,
+    "timestampMs": 20200,
+    "confidence": null
+  },
+  {
+    "text": "Then an online order:",
+    "startMs": 21200,
+    "endMs": 22120,
+    "timestampMs": 21200,
+    "confidence": null
+  },
+  {
+    "text": "someone wants a bag.",
+    "startMs": 22120,
+    "endMs": 22920,
+    "timestampMs": 22120,
+    "confidence": null
+  },
+  {
+    "text": "Same good coffee",
+    "startMs": 22920,
+    "endMs": 23520,
+    "timestampMs": 22920,
+    "confidence": null
+  },
+  {
+    "text": "with your name on the tag.",
+    "startMs": 23520,
+    "endMs": 24480,
+    "timestampMs": 23520,
+    "confidence": null
+  },
+  {
+    "text": "You sell at the counter,",
+    "startMs": 24480,
+    "endMs": 25260,
+    "timestampMs": 24480,
+    "confidence": null
+  },
+  {
+    "text": "you sell through your site.",
+    "startMs": 25320,
+    "endMs": 26200,
+    "timestampMs": 25320,
+    "confidence": null
+  },
+  {
+    "text": "PayCreate helps\u2026",
+    "startMs": 26200,
+    "endMs": 27760,
+    "timestampMs": 26200,
+    "confidence": null
+  },
+  {
+    "text": "Sell it.",
+    "startMs": 27760,
+    "endMs": 28960,
+    "timestampMs": 27760,
+    "confidence": null
+  },
+  {
+    "text": "PayCreate.",
+    "startMs": 29220,
+    "endMs": 29920,
+    "timestampMs": 29220,
+    "confidence": null
+  },
+  {
+    "text": "Your name on the door,",
+    "startMs": 29920,
+    "endMs": 31780,
+    "timestampMs": 29920,
+    "confidence": null
+  },
+  {
+    "text": "your thing, your way.",
+    "startMs": 31780,
+    "endMs": 33080,
+    "timestampMs": 31780,
+    "confidence": null
+  },
+  {
+    "text": "From the shop",
+    "startMs": 33540,
+    "endMs": 34260,
+    "timestampMs": 33540,
+    "confidence": null
+  },
+  {
+    "text": "on the block",
+    "startMs": 34260,
+    "endMs": 35080,
+    "timestampMs": 34260,
+    "confidence": null
+  },
+  {
+    "text": "to your checkout page.",
+    "startMs": 35080,
+    "endMs": 36480,
+    "timestampMs": 35080,
+    "confidence": null
+  },
+  {
+    "text": "Make it, make it.",
+    "startMs": 37200,
+    "endMs": 38320,
+    "timestampMs": 37200,
+    "confidence": null
+  },
+  {
+    "text": "Sell it.",
+    "startMs": 38320,
+    "endMs": 39040,
+    "timestampMs": 38320,
+    "confidence": null
+  },
+  {
+    "text": "PayCreate.",
+    "startMs": 39380,
+    "endMs": 39940,
+    "timestampMs": 39380,
+    "confidence": null
+  },
+  {
+    "text": "Yeah, yeah, yeah.",
+    "startMs": 40400,
+    "endMs": 41500,
+    "timestampMs": 40400,
+    "confidence": null
+  },
+  {
+    "text": "Shop's closed up,",
+    "startMs": 41600,
+    "endMs": 42440,
+    "timestampMs": 41600,
+    "confidence": null
+  },
+  {
+    "text": "got a statement to read.",
+    "startMs": 42480,
+    "endMs": 43380,
+    "timestampMs": 42480,
+    "confidence": null
+  },
+  {
+    "text": "What's that charge?",
+    "startMs": 43380,
+    "endMs": 44320,
+    "timestampMs": 43380,
+    "confidence": null
+  },
+  {
+    "text": "What's that fee?",
+    "startMs": 44360,
+    "endMs": 45020,
+    "timestampMs": 44360,
+    "confidence": null
+  },
+  {
+    "text": "Talk it through\u2026",
+    "startMs": 45280,
+    "endMs": 45840,
+    "timestampMs": 45280,
+    "confidence": null
+  },
+  {
+    "text": "Get a clearer view.",
+    "startMs": 45840,
+    "endMs": 46780,
+    "timestampMs": 45840,
+    "confidence": null
+  },
+  {
+    "text": "Choose the payment setup",
+    "startMs": 46780,
+    "endMs": 47500,
+    "timestampMs": 46780,
+    "confidence": null
+  },
+  {
+    "text": "that works for you.",
+    "startMs": 47520,
+    "endMs": 48320,
+    "timestampMs": 47520,
+    "confidence": null
+  },
+  {
+    "text": "Then wipe down the counter,",
+    "startMs": 48320,
+    "endMs": 49140,
+    "timestampMs": 48320,
+    "confidence": null
+  },
+  {
+    "text": "get the cups all stacked.",
+    "startMs": 49200,
+    "endMs": 50000,
+    "timestampMs": 49200,
+    "confidence": null
+  },
+  {
+    "text": "Fresh beans ready",
+    "startMs": 50000,
+    "endMs": 50820,
+    "timestampMs": 50000,
+    "confidence": null
+  },
+  {
+    "text": "for when you come back.",
+    "startMs": 50820,
+    "endMs": 51680,
+    "timestampMs": 50820,
+    "confidence": null
+  },
+  {
+    "text": "Lights out. Rest up. Call it a day.",
+    "startMs": 51680,
+    "endMs": 53340,
+    "timestampMs": 51680,
+    "confidence": null
+  },
+  {
+    "text": "Tomorrow\u2026",
+    "startMs": 53340,
+    "endMs": 54700,
+    "timestampMs": 53340,
+    "confidence": null
+  },
+  {
+    "text": "Sell it.",
+    "startMs": 54700,
+    "endMs": 55840,
+    "timestampMs": 54700,
+    "confidence": null
+  },
+  {
+    "text": "PayCreate.",
+    "startMs": 56180,
+    "endMs": 56780,
+    "timestampMs": 56180,
+    "confidence": null
+  },
+  {
+    "text": "Your name on the door,",
+    "startMs": 56780,
+    "endMs": 58620,
+    "timestampMs": 56780,
+    "confidence": null
+  },
+  {
+    "text": "your thing, your way.",
+    "startMs": 58660,
+    "endMs": 59920,
+    "timestampMs": 58660,
+    "confidence": null
+  },
+  {
+    "text": "From the shop",
+    "startMs": 60240,
+    "endMs": 61140,
+    "timestampMs": 60240,
+    "confidence": null
+  },
+  {
+    "text": "on the block",
+    "startMs": 61140,
+    "endMs": 61960,
+    "timestampMs": 61140,
+    "confidence": null
+  },
+  {
+    "text": "to your checkout page.",
+    "startMs": 62020,
+    "endMs": 63300,
+    "timestampMs": 62020,
+    "confidence": null
+  },
+  {
+    "text": "Make it.",
+    "startMs": 64420,
+    "endMs": 65120,
+    "timestampMs": 64420,
+    "confidence": null
+  },
+  {
+    "text": "Sell it.",
+    "startMs": 65120,
+    "endMs": 65960,
+    "timestampMs": 65120,
+    "confidence": null
+  },
+  {
+    "text": "PayCreate.",
+    "startMs": 66280,
+    "endMs": 67020,
+    "timestampMs": 66280,
+    "confidence": null
+  }
+]

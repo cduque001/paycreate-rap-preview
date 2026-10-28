@@ -1,0 +1,47 @@
+name: Render PayCreate C3 V2
+on:
+  push:
+    branches: [render/paycreate-v2]
+    paths: ['_render/v2/**', '.github/workflows/render-paycreate-v2.yml']
+permissions:
+  contents: write
+concurrency:
+  group: paycreate-v2-export
+  cancel-in-progress: false
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install locked renderer
+        working-directory: _render/v2/remotion
+        run: npm ci --no-audit --no-fund
+      - name: Check memory and export
+        working-directory: _render/v2
+        run: |
+          free -m
+          test "$(free -m | awk '/^Mem:/{print $7}')" -ge 3500
+          mkdir -p out
+          chmod +x tools/remotion-one.sh
+          tools/remotion-one.sh render src/FullRootV2.tsx PayCreateFullV2 ../out/render-raw-v2.mp4 --public-dir=public --codec=h264 --crf=18 --concurrency=2
+      - name: Align selected C3 master at sample zero
+        working-directory: _render/v2
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          ffmpeg -hide_banner -loglevel error -i out/render-raw-v2.mp4 -i remotion/public/assets/full-c3.wav -map 0:v:0 -map 1:a:0 -c:v copy -c:a aac -b:a 320k -ar 48000 -af apad -t 82.6333333333 -movflags +faststart out/paycreate-c3-captioned-v2.mp4
+          ffmpeg -hide_banner -loglevel error -i out/paycreate-c3-captioned-v2.mp4 -f null -
+      - name: Save rendered result on review branch
+        run: |
+          mkdir -p render-output
+          cp _render/v2/out/paycreate-c3-captioned-v2.mp4 render-output/
+          sha256sum render-output/paycreate-c3-captioned-v2.mp4 > render-output/sha256.txt
+          git config user.name 'PayCreate render'
+          git config user.email 'actions@users.noreply.github.com'
+          git add render-output
+          git commit -m 'Render PayCreate C3 V2 for final review'
+          git push origin HEAD:render/paycreate-v2
