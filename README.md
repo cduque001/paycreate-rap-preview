@@ -1,9 +1,9 @@
-# PayCreate rap auditions
+# PayCreate rap review
 
-[Listen and compare A, B, and C](https://cduque001.github.io/paycreate-rap-preview/).
+[Listen to C and the pronunciation retakes](https://cduque001.github.io/paycreate-rap-preview/).
 
-Three original YuE2 auditions using the PayCreate anthem lyrics: funk-rap, boom-bap, and trap-rap. The page includes MP3 and lossless FLAC downloads, the lyrics, and a ZIP of all three MP3s.
+C is the creator’s preferred direction. The original remains unchanged. C3 gives the brand name more room in the hook score; C2 uses phonetic guidance with the original score. These are new performances for listening review, not certified pronunciation fixes.
 
-These are recordings for creative review. A reached the generation length limit. Listen to the brand pronunciation before selecting a final performance. Arrangement names describe the requested styles.
+The page includes quick hook comparisons, MP3 and lossless FLAC downloads, the unchanged lyrics, and a comparison ZIP. The original A/B/C page and all its audio remain available at [the first auditions page](https://cduque001.github.io/paycreate-rap-preview/auditions-v1.html).
 
-Published here at the creator's request for a shareable review link. Search indexing is discouraged; the files are publicly accessible.
+Shared here at the creator’s request. Search indexing is discouraged; files are publicly accessible.
